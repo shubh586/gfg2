@@ -1,0 +1,156 @@
+[
+  {
+    "rollNo": 101,
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@example.com",
+    "sem": 1,
+    "age": 18,
+    "course": "Computer Science",
+    "cgpa": 9.2,
+    "college": "rcoem",
+    "dateEnrolled": "2024-01-15T10:00:00Z"
+  },
+  {
+    "rollNo": 102,
+    "name": "Priya Desai",
+    "email": "priya.desai@example.com",
+    "sem": 2,
+    "age": 19,
+    "course": "Information Technology",
+    "cgpa": 8.5,
+    "college": "kd",
+    "dateEnrolled": "2023-08-10T10:00:00Z"
+  },
+  {
+    "rollNo": 103,
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta@example.com",
+    "sem": 3,
+    "age": 20,
+    "course": "Electronics",
+    "cgpa": 7.5,
+    "college": "ycc",
+    "dateEnrolled": "2023-02-20T10:00:00Z"
+  },
+  {
+    "rollNo": 104,
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@example.com",
+    "sem": 4,
+    "age": 21,
+    "course": "Mechanical Engineering",
+    "cgpa": 9.0,
+    "college": "vnit",
+    "dateEnrolled": "2022-07-25T10:00:00Z"
+  },
+  {
+    "rollNo": 105,
+    "name": "Karan Mehta",
+    "email": "karan.mehta@example.com",
+    "sem": 1,
+    "age": 18,
+    "course": "Civil Engineering",
+    "cgpa": 8.3,
+    "college": "rcoem",
+    "dateEnrolled": "2024-01-05T10:00:00Z"
+  },
+  {
+    "rollNo": 106,
+    "name": "Nisha Reddy",
+    "email": "nisha.reddy@example.com",
+    "sem": 2,
+    "age": 19,
+    "course": "Biotechnology",
+    "cgpa": 9.5,
+    "college": "kd",
+    "dateEnrolled": "2023-08-15T10:00:00Z"
+  },
+  {
+    "rollNo": 107,
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "sem": 3,
+    "age": 20,
+    "course": "Chemical Engineering",
+    "cgpa": 8.7,
+    "college": "ycc",
+    "dateEnrolled": "2023-02-10T10:00:00Z"
+  },
+  {
+    "rollNo": 108,
+    "name": "Riya Kapoor",
+    "email": "riya.kapoor@example.com",
+    "sem": 4,
+    "age": 21,
+    "course": "Computer Science",
+    "cgpa": 9.8,
+    "college": "vnit",
+    "dateEnrolled": "2022-06-30T10:00:00Z"
+  },
+  {
+    "rollNo": 109,
+    "name": "Rohit Verma",
+    "email": "rohit.verma@example.com",
+    "sem": 1,
+    "age": 18,
+    "course": "Information Technology",
+    "cgpa": 7.8,
+    "college": "rcoem",
+    "dateEnrolled": "2024-01-12T10:00:00Z"
+  },
+  {
+    "rollNo": 110,
+    "name": "Deepika Sharma",
+    "email": "deepika.sharma@example.com",
+    "sem": 2,
+    "age": 19,
+    "course": "Electrical Engineering",
+    "cgpa": 8.9,
+    "college": "kd",
+    "dateEnrolled": "2023-09-01T10:00:00Z"
+  },
+  {
+    "rollNo": 111,
+    "name": "Amit Joshi",
+    "email": "amit.joshi@example.com",
+    "sem": 3,
+    "age": 20,
+    "course": "Civil Engineering",
+    "cgpa": 8.0,
+    "college": "ycc",
+    "dateEnrolled": "2023-03-05T10:00:00Z"
+  },
+  {
+    "rollNo": 112,
+    "name": "Kavita Nair",
+    "email": "kavita.nair@example.com",
+    "sem": 4,
+    "age": 21,
+    "course": "Mechanical Engineering",
+    "cgpa": 9.3,
+    "college": "vnit",
+    "dateEnrolled": "2022-08-18T10:00:00Z"
+  },
+  {
+    "rollNo": 113,
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@example.com",
+    "sem": 1,
+    "age": 18,
+    "course": "Biotechnology",
+    "cgpa": 7.6,
+    "college": "rcoem",
+    "dateEnrolled": "2024-01-20T10:00:00Z"
+  },
+  {
+    "rollNo": 114,
+    "name": "Pooja Verma",
+    "email": "pooja.verma@example.com",
+    "sem": 2,
+    "age": 19,
+    "course": "Electronics",
+    "cgpa": 8.1,
+    "college": "kd",
+    "dateEnrolled": "2023-10-05T10:00:00Z"
+  }
+]
